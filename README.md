@@ -1,9 +1,8 @@
-<h1 align="center">
-  <span style="color: blue;">About Me</span>
-</h1>
 <div align="center">
-  <img src="assets/Code%20With%20Uditya.png" alt="My Image" />
+  <img src="assets/Code%20With%20Uditya.png" alt="My Image" width="auto" />
 </div>
+
+
 </br>
 <div align="center" dir="auto">
 
