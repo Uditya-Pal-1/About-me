@@ -1,4 +1,4 @@
-![Sample Image](https://via.placeholder.com/300x200?text=Sample+Image)
+![Sample Image](url:"/assets/my image in university.jpeg")
 # <span style="color: blue;">About-Me</span>
 
 This is a sample markdown file with colored headings and images.
