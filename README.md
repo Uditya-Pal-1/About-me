@@ -1,9 +1,9 @@
-# <span style="color: blue;">About Me</span>
+<h1 align="center">
+  <span style="color: blue;">About Me</span>
+</h1>
 <div align="center">
   <img src="assets/my%20image%20in%20university.jpeg" alt="My Image" width="400" />
 </div>
-
-## <span style="color: red;">Introduction</span>
 
 <div align="center" dir="auto">
 
@@ -16,13 +16,17 @@
 
 </div>
 
-### <span style="color: green;">Skills</span>
+<h1 align="center">
+  <span style="color: blue;">Introduction</span>
+</h1>
+
+### <span style="text-align: center; color: green;">Skills</span>
 
 - Skill 1
 - Skill 2
 - Skill 3
 
-#### <span style="color: purple;">Projects</span>
+#### <span style="text-align: center; color: purple;">Projects</span>
 
 - Project 1
 - Project 2
